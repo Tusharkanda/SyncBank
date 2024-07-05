@@ -2,8 +2,8 @@
 # Welcome to Our project -_-
 An creative approach on how do we approach traditional banking services via using the core concepts of Operating system
 
-Teammates:-) 1)Tushar kanda (https://github.com/Tusharkanda) 
-            mail :- tusharkanda.221ai042@nitk.edu.in
+Teammates:-) 1)Sachin Choudhary (https://github.com/Tusharkanda) 
+            mail :- sachinchoudhary.221ai034@nitk.edu.in
             2) Priyanshu maniyar(https://github.com/priyanshu-Maniyar)
             mail:- priyanshumaniyar.221ai023@nitk.edu.in
 
